@@ -1,11 +1,11 @@
 const myImages = [
     {
-        src: "/images/atomic-heart-HD-scaled",
+        src: "/images/atomic-heart-HD-scaled.jpg",
         description: "This is the main charater P-3.",
         alt: "Atomic Heart"
     },
     {
-        src: "/images/ATOMIC-_HEART_Store_Featured_JPG-af8c6994d37e4bfb590d",
+        src: "/images/ATOMIC-_HEART_Store_Featured_JPG-af8c6994d37e4bfb590d.jpg",
         description: "This is the main character and the robotic twin right",
         alt: "Atomic heart"
     },
