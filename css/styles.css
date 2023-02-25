@@ -24,7 +24,7 @@ a:hover {
 header {
     flex: 1;
     font-family: var(--theme-alternate-font);
-    color: white;
+    color: rgb(241, 0, 0);
     background-color: var(--theme-primary);
     border-color: var(--theme-alert);
     border-width: 3px;
